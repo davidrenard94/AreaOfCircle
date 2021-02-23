@@ -1,8 +1,8 @@
 /**
  * Circle.java
- * @author cjohns25
+ * @author David Renard
  *  
- * Starter class for Chapter 1 array of objects coding assignment
+ * 
  *
  */
 
